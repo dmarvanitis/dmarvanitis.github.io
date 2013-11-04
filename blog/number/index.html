@@ -1,0 +1,191 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="This is the description" name="description">
+		<meta content="Danielle.A" name="author">
+		
+		<title>Some numbers to keep in mind while designing &mdash; Danielle.A</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Danielle.A" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">Danielle.A</div>
+				<ul class="subscription" data-subscription="rss">
+	
+		
+
+		
+
+</ul>
+
+
+
+<div class="navi">
+	<ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/blog/archives">Archives</a></li>
+	</ul>
+	<ul>
+		<li><a href="http://twitter.com/dannyoyello"><img class="opaque_rollover" width="50px" src="/../../images/twitter-bird-light-bgs.png">
+		</li>
+	</ul>
+</div>
+
+			</header>
+		
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<time>Jan. 28, 2013</time>
+		<h1><a href="/blog/number/">Some numbers to keep in mind while designing</a></h1>
+	</header>
+		<div class="content">
+			<p>There’s an old saying that goes, “The only numbers developers care about are 0, 1, and N.”
+Sounds like the punch line to a bad joke, right? But what it means is that developers have
+to make sure their code accounts for those numbers.</p>
+
+<p>Once I heard this saying, and the reason for it, I tried to remember those numbers when I was designing. For example:</p>
+
+<ul>
+<li><p><bold>0.</bold> How does my design handle 0 of something? What does it look like if there are no items in my container, whether it’s an email folder, a to-do list, a list of chats? Is there anything special my app or site needs to do to indicate or handle this 0 of something? How am I going to do it?</p></li>
+<li><p><bold>1.</bold> What does 1 of something look like? Are there any special cases related to having only 1 of something?</p></li>
+<li><p><bold>N.</bold> N isn’t always so easy. It could be anything from 3 to 300, or even 3,000. How will my design accommodate N of something?
+As it turns out, there are other special numbers when it comes to UX design. One of them is the number 2, as I recently noticed while using Twitter for iPhone.</p></li>
+</ul>
+
+
+<p>I have two Twitter accounts, and sometimes I switch between them to tweet different types of things.</p>
+
+<p>Here’s what my main account’s profile looks like. If I tap the “Accounts” button, I get a list of my accounts.</p>
+
+<p><img src="/../images/blogImages/numbers_screenshots.png" alt="screenshots" title="Button
+doesn’t toggle between two accounts" /></p>
+
+<p>To switch, I tap the button, pick my other account, and wait for the window to close.</p>
+
+<p>But wait. I only have <em>two</em> accounts. Why, when I tap this button, should I have to see a list of accounts and manually select my other account? When I have two accounts configured, Twitter should just swap them. That button should just <em>toggle</em> between my two accounts. The number 2 is a special case.</p>
+
+<p>So, some numbers to keep in mind while you’re designing: 0, 1, 2, and N. And there could be others, depending on the domain and tasks you’re trying to accommodate. You might want to add them to a design checklist to make sure you haven’t missed them before your next design review.</p>
+
+		</div>
+	<footer>
+	
+
+
+		
+
+
+
+  
+		
+			Tags:&nbsp;
+		
+    <a class='category' href='/blog/categories/checklists/'>checklists</a>, <a class='category' href='/blog/categories/quality/'>quality</a>
+	
+
+
+	<div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="“Some numbers to keep in mind while designing”" data-url="http://dannyoyello.com/blog/number/">Tweet</a>
+  
+</div>
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Danielle Arvanitis
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+		
+		
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+		
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->

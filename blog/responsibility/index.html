@@ -1,0 +1,186 @@
+
+<!doctype html>
+<!-- START OF _layouts/default.html -->
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" >
+		<meta content="width=device-width,initial-scale=1" name="viewport">
+		<meta content="This is the description" name="description">
+		<meta content="Danielle.A" name="author">
+		
+		<title>“You are responsible for what you put into the world” &mdash; Danielle.A</title>
+		
+		<!-- Styles -->
+		<link href="/stylesheets/main.css" rel="stylesheet">
+		
+		<!-- Google webfonts -->
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Tangerine">
+		<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Cousine">
+		
+		<!-- jQuery and plugins -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script src="/js/jquery.zclip.min.js"></script>
+		
+		<!-- Syntax highlighter -->
+		<link href="/stylesheets/prettify-hemisu.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/js/prettify.js"></script>
+		
+		<!--<link href="http://feeds.feedburner.com/turkeltaub" rel="alternate" title="Danielle.A" type="application/rss+xml" />-->
+		
+	</head>
+	<body onload="prettyPrint()">
+	
+		<div class="wrap">
+	
+			<header>
+				<div class="title">Danielle.A</div>
+				<ul class="subscription" data-subscription="rss">
+	
+		
+
+		
+
+</ul>
+
+
+
+<div class="navi">
+	<ul>
+		<li><a href="/">Home</a></li>
+		<li><a href="/blog/archives">Archives</a></li>
+	</ul>
+	<ul>
+		<li><a href="http://twitter.com/dannyoyello"><img class="opaque_rollover" width="50px" src="/../../images/twitter-bird-light-bgs.png">
+		</li>
+	</ul>
+</div>
+
+			</header>
+		
+				<!-- START OF _layouts/post.html -->
+
+<!-- START OF _includes/article.html -->
+<article>
+	<header>
+		<time>Oct. 19, 2013</time>
+		<h1><a href="/blog/responsibility/">“You are responsible for what you put into the world”</a></h1>
+	</header>
+		<div class="content">
+			<p>—Mike Monteiro, <em>How Designers Destroyed the World</em></p>
+
+<br />
+
+
+
+
+<iframe style="display:block;margin:0 auto" src="//player.vimeo.com/video/68470326?byline=0&amp;portrait=0" 
+width="600" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+
+
+<br />
+
+
+<ul>
+<li>The most inspiring design talk I’ve ever seen.</li>
+<li>Makes me feel <em>great</em> about having quit my last job.</li>
+</ul>
+
+
+		</div>
+	<footer>
+	
+
+
+		
+
+
+
+  
+		
+			Tags:&nbsp;
+		
+    <a class='category' href='/blog/categories/design/'>design</a>, <a class='category' href='/blog/categories/inspiration/'>inspiration</a>, <a class='category' href='/blog/categories/monteiro/'>monteiro</a>, <a class='category' href='/blog/categories/responsibility/'>responsibility</a>, <a class='category' href='/blog/categories/webstock13/'>webstock13</a>
+	
+
+
+	<div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="““You are responsible for what you put into the world””" data-url="http://dannyoyello.com/blog/responsibility/">Tweet</a>
+  
+</div>
+	
+	</footer>
+	
+</article>
+<!-- END OF _includes/article.html -->
+
+
+<!-- END OF _/layouts/post.html -->
+
+		
+			<footer>
+				Copyright &copy; 2013
+
+	Danielle Arvanitis
+
+
+			</footer>
+			
+		</div> <!-- // .wrap -->
+		
+		
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+		
+	</body>
+	<script>
+		$(document).ready(function() {
+			// Make images center
+			$('p:has(img)').css('text-align', 'center');
+			
+			// Add the image's title attribute as a caption
+			$('p:has(img)').append(function () {
+				return '<div class="caption">' + $('img', this).attr('title') + '</div>';
+			});
+			
+			// Prettify code
+			$('code').addClass('prettyprint');
+			$('pre code').addClass('linenums');
+			
+			// Copy to clipboard with button
+			$('pre:has(code)').prepend(function(){
+				return '<div class="clip-btn">copy to clipboard</div>';
+			});
+			$('.clip-btn').zclip({
+				path:'/js/ZeroClipboard.swf',
+				copy: $(this).next('code').text(),
+				afterCopy: function(){
+					$(this).replaceWith('<div class="clip-btn">copied!');
+					}
+			});
+		});
+	</script>
+</html>
+<!-- END OF _layouts/default.html -->
