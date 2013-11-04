@@ -22,7 +22,9 @@ I was shocked at what I found. Our own big shots—the people with the highest c
 
 It was hard to believe, but these executives were too busy for apps that could not only help them with their day-to-day work, but were the same apps upon which their own livelihoods depended.
 
-In case you're tempted to consider these executives outliers, even "average" users are becoming famous for <a href="http://usatoday30.usatoday.com/MONEY/usaedition/2012-01-31-App-Love-is-Fleeting_ST_U.htm">trying an app once or twice and then deleting it</a>. App creators have a <a href="http://www.nuance.com/ucmprod/groups/enterprise/@web-enus/documents/collateral/nc_020218.pdf">very short window</a> in which to hook potential users. Discovering hidden features and reading tutorials require a time commitment that a tiny fraction of your potential user base is willing to make. The bottom line? Don't assume that *anyone* wants to invest time in your app.
+In case you're tempted to consider these executives outliers, even "average" users are becoming famous for <a href="http://usatoday30.usatoday.com/MONEY/usaedition/2012-01-31-App-Love-is-Fleeting_ST_U.htm">trying an app once or twice and then deleting it</a>. App creators have a <a href="http://www.nuance.com/ucmprod/groups/enterprise/@web-enus/documents/collateral/nc_020218.pdf">very short window</a> in which to hook potential users. Discovering hidden features and reading tutorials require a time commitment that a tiny fraction of your potential user base is willing to make.
+
+The bottom line? Don't assume that *anyone* wants to invest time in your app.
 
 # Missing affordance means missing feature
 
