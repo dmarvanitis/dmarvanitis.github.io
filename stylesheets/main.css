@@ -33,7 +33,9 @@ body {
 	margin:0;
 	padding:0;
 	border-top:8px solid #333;
-	font-family:"sorts-mill-goudy";
+	font-family:'ITC Berkeley Oldstyle W01';
+	font-weight:500;
+	font-style:normal;
 	font-size:1.1em;
 	color:#333
 }
@@ -41,13 +43,15 @@ body {
 	body{font-size:0.9em}
 }
 em { 
-	font-style:normal;
-	font-family:"sorts-mill-goudy-italic"
+	font-style:italic;
+}
+strong {
+	font-weight:700;
 }
 h1 {
 	margin-top:2em;
 	font-size:1.6em;
-	font-weight:bold;
+	font-weight:500;
 	font-style:normal;
 	text-align:center;
 	line-height: 1.3em
@@ -55,7 +59,7 @@ h1 {
 h2 {
 	margin-top:2em;
 	font-size:1.2em;
-	font-weight:bold;
+	font-weight:500;
 	font-style:normal
 }
 .opaque_rollover:hover  {
@@ -87,7 +91,6 @@ header .title {
 	text-transform:uppercase
 }
 header .navi {
-	font-family:"sorts-mill-goudy";
 	font-size:1.15em
 }
 header .navi ul {
@@ -118,7 +121,7 @@ a:hover {
 	color:#333
 }
 blockquote {
-	font-family:"sorts-mill-goudy-italic";
+	font-style:italic;
 	font-size:1em
 }
 article {
@@ -173,7 +176,7 @@ article hr {
 	background-color:#dfdfdf
 }
 article p .caption {
-	font-family:"sorts-mill-goudy-italic";
+	font-style:italic;
 	font-size:1.1em
 }
 article p img {
@@ -227,7 +230,6 @@ p>code {
 	border-bottom:1px solid #dfdfdf
 }
 .pagination a {
-	font-family:"sorts-mill-goudy";
 	font-size:1em;
 	color:#333;
 	text-decoration:none
