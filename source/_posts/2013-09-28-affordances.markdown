@@ -3,7 +3,7 @@ layout: post
 title: "In mobile app design, do affordances still matter?"
 date: 2013-09-28 15:14
 comments: true
-categories: affordances mobile
+categories: affordances mobile novices
 ---
 
 Something I hear from novice mobile designers lately is that affordances “aren't needed anymore” because “users will just play with the app and figure things out.” When pressed by more senior members of a UX team, these designers often suggest making up for the missing affordance by highlighting the feature in a tutorial or displaying a screen overlay with tips on how to use the app.

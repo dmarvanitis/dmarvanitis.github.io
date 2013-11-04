@@ -3,7 +3,7 @@ layout: post
 title: "“You are responsible for what you put into the world”"
 date: 2013-10-19 15:14
 comments: true
-categories: monteiro design responsibility inspiration webstock13
+categories: monteiro responsibility inspiration webstock13
 ---
 
 —Mike Monteiro, *How Designers Destroyed the World*
@@ -15,5 +15,5 @@ width="600" height="281" frameborder="0" webkitallowfullscreen mozallowfullscree
 
 <br />
 
-* The most inspiring design talk I’ve ever seen.
-* Makes me feel *great* about having quit my last job.
+* The most inspiring design talk in (my) recent memory.
+* Makes me feel good about having quit my last job!
