@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title><![CDATA[Danielle.A]]></title>
-	<link href="http://dannyoyello.com/atom.xml" rel="self"/>
-	<link href="http://dannyoyello.com/"/>
-	<updated>2013-11-03T19:14:24-08:00</updated>
-	<id>http://dannyoyello.com/</id>
+	<link href="http://dmarvanitis.github.io/atom.xml" rel="self"/>
+	<link href="http://dmarvanitis.github.io/"/>
+	<updated>2013-11-03T19:32:20-08:00</updated>
+	<id>http://dmarvanitis.github.io/</id>
 	<author>
 		<name><![CDATA[Danielle Arvanitis]]></name>
 		
@@ -17,9 +17,9 @@
 		
 			<title type="html"><![CDATA[“You are responsible for what you put into the world”]]></title>
 		
-		<link href="http://dannyoyello.com/blog/responsibility/"/>
+		<link href="http://dmarvanitis.github.io/blog/responsibility/"/>
 		<updated>2013-10-19T15:14:00-07:00</updated>
-		<id>http://dannyoyello.com/blog/responsibility</id>
+		<id>http://dmarvanitis.github.io/blog/responsibility</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -33,7 +33,7 @@
 
 
 
-<iframe style="display:block;margin:0 auto" src="http://dannyoyello.com//player.vimeo.com/video/68470326?byline=0&amp;portrait=0" 
+<iframe style="display:block;margin:0 auto" src="http://dmarvanitis.github.io//player.vimeo.com/video/68470326?byline=0&amp;portrait=0" 
 width="600" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
@@ -55,9 +55,9 @@ width="600" height="281" frameborder="0" webkitallowfullscreen mozallowfullscree
 		
 			<title type="html"><![CDATA[In mobile app design, do affordances still matter?]]></title>
 		
-		<link href="http://dannyoyello.com/blog/affordances/"/>
+		<link href="http://dmarvanitis.github.io/blog/affordances/"/>
 		<updated>2013-09-28T15:14:00-07:00</updated>
-		<id>http://dannyoyello.com/blog/affordances</id>
+		<id>http://dmarvanitis.github.io/blog/affordances</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -98,7 +98,7 @@ width="600" height="281" frameborder="0" webkitallowfullscreen mozallowfullscree
 
 <p>Clearly, she hadn&rsquo;t read the tutorial.</p>
 
-<p><img src="http://dannyoyello.com/../images/blogImages/navbar.png" alt="screenshot" title="Oops" /></p>
+<p><img src="http://dmarvanitis.github.io/../images/blogImages/navbar.png" alt="screenshot" title="Oops" /></p>
 
 <p>I could only be embarrassed for the UX team, because I knew the story behind the error. The lead designer hadn’t wanted to add an affordance for swiping the tab bar, and management had backed him on it. Some of us knew that some users would never discover the swipe—but we didn&rsquo;t know there would be one just down the hall who was responsible for supporting our own Chief Revenue Officer.</p>
 
@@ -125,9 +125,9 @@ width="600" height="281" frameborder="0" webkitallowfullscreen mozallowfullscree
 		
 			<title type="html"><![CDATA[Interview with UserZoom]]></title>
 		
-		<link href="http://dannyoyello.com/blog/userzoom/"/>
+		<link href="http://dmarvanitis.github.io/blog/userzoom/"/>
 		<updated>2013-02-05T15:14:00-08:00</updated>
-		<id>http://dannyoyello.com/blog/userzoom</id>
+		<id>http://dmarvanitis.github.io/blog/userzoom</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -147,9 +147,9 @@ Mobile UX Research: An Interview with Danielle Arvanitis</a></p>
 		
 			<title type="html"><![CDATA[Some numbers to keep in mind while designing]]></title>
 		
-		<link href="http://dannyoyello.com/blog/number/"/>
+		<link href="http://dmarvanitis.github.io/blog/number/"/>
 		<updated>2013-01-28T15:14:00-08:00</updated>
-		<id>http://dannyoyello.com/blog/number</id>
+		<id>http://dmarvanitis.github.io/blog/number</id>
 		<content type="html">
 			<![CDATA[
 				
@@ -174,7 +174,7 @@ As it turns out, there are other special numbers when it comes to UX design. One
 
 <p>Here’s what my main account’s profile looks like. If I tap the “Accounts” button, I get a list of my accounts.</p>
 
-<p><img src="http://dannyoyello.com/../images/blogImages/numbers_screenshots.png" alt="screenshots" title="Button
+<p><img src="http://dmarvanitis.github.io/../images/blogImages/numbers_screenshots.png" alt="screenshots" title="Button
 doesn’t toggle between two accounts" /></p>
 
 <p>To switch, I tap the button, pick my other account, and wait for the window to close.</p>

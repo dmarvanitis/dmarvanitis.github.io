@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: monteiro | Danielle.A]]></title>
-  <link href="http://dannyoyello.com/blog/categories/monteiro/atom.xml" rel="self"/>
-  <link href="http://dannyoyello.com/"/>
-  <updated>2013-11-03T19:14:24-08:00</updated>
-  <id>http://dannyoyello.com/</id>
+  <link href="http://dmarvanitis.github.io/blog/categories/monteiro/atom.xml" rel="self"/>
+  <link href="http://dmarvanitis.github.io/"/>
+  <updated>2013-11-03T19:32:20-08:00</updated>
+  <id>http://dmarvanitis.github.io/</id>
   <author>
     <name><![CDATA[Danielle Arvanitis]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[“You are responsible for what you put into the world”]]></title>
-    <link href="http://dannyoyello.com/blog/responsibility/"/>
+    <link href="http://dmarvanitis.github.io/blog/responsibility/"/>
     <updated>2013-10-19T15:14:00-07:00</updated>
-    <id>http://dannyoyello.com/blog/responsibility</id>
+    <id>http://dmarvanitis.github.io/blog/responsibility</id>
     <content type="html"><![CDATA[<p>—Mike Monteiro, <em>How Designers Destroyed the World</em></p>
 
 <br />
@@ -25,7 +25,7 @@
 
 
 
-<iframe style="display:block;margin:0 auto" src="http://dannyoyello.com//player.vimeo.com/video/68470326?byline=0&amp;portrait=0" 
+<iframe style="display:block;margin:0 auto" src="http://dmarvanitis.github.io//player.vimeo.com/video/68470326?byline=0&amp;portrait=0" 
 width="600" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
