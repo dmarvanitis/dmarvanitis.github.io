@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Interview with UserZoom"
+date: 2013-02-05 15:14
+comments: true
+categories: research mobile
+---
+
+In February, UserZoom contacted me to ask some questions about mobile UX research. You can
+read the interview here:
+
+<a href="http://www.userzoom.com/an-interview-with-danielle-arvanitis/">
+Mobile UX Research: An Interview with Danielle Arvanitis</a>
