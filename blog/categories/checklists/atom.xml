@@ -4,7 +4,7 @@
   <title><![CDATA[Category: checklists | Danielle.A]]></title>
   <link href="http://dmarvanitis.github.io/blog/categories/checklists/atom.xml" rel="self"/>
   <link href="http://dmarvanitis.github.io/"/>
-  <updated>2013-11-03T21:14:01-08:00</updated>
+  <updated>2013-11-04T13:15:48-08:00</updated>
   <id>http://dmarvanitis.github.io/</id>
   <author>
     <name><![CDATA[Danielle Arvanitis]]></name>
@@ -25,9 +25,9 @@ to make sure their code accounts for those numbers.</p>
 <p>Once I heard this saying, and the reason for it, I tried to remember those numbers when I was designing. For example:</p>
 
 <ul>
-<li><p><bold>0.</bold> How does my design handle 0 of something? What does it look like if there are no items in my container, whether it’s an email folder, a to-do list, a list of chats? Is there anything special my app or site needs to do to indicate or handle this 0 of something? How am I going to do it?</p></li>
-<li><p><bold>1.</bold> What does 1 of something look like? Are there any special cases related to having only 1 of something?</p></li>
-<li><p><bold>N.</bold> N isn’t always so easy. It could be anything from 3 to 300, or even 3,000. How will my design accommodate N of something?
+<li><p><strong>0.</strong> How does my design handle 0 of something? What does it look like if there are no items in my container, whether it’s an email folder, a to-do list, a list of chats? Is there anything special my app or site needs to do to indicate or handle this 0 of something? How am I going to do it?</p></li>
+<li><p><strong>1.</strong> What does 1 of something look like? Are there any special cases related to having only 1 of something?</p></li>
+<li><p><strong>N.</strong> N isn’t always so easy. It could be anything from 3 to 300, or even 3,000. How will my design accommodate N of something?
 As it turns out, there are other special numbers when it comes to UX design. One of them is the number 2, as I recently noticed while using Twitter for iPhone.</p></li>
 </ul>
 
@@ -43,7 +43,7 @@ doesn’t toggle between two accounts" /></p>
 
 <p>But wait. I only have <em>two</em> accounts. Why, when I tap this button, should I have to see a list of accounts and manually select my other account? When I have two accounts configured, Twitter should just swap them. That button should just <em>toggle</em> between my two accounts. The number 2 is a special case.</p>
 
-<p>So, some numbers to keep in mind while you’re designing: 0, 1, 2, and N. And there could be others, depending on the domain and tasks you’re trying to accommodate. You might want to add them to a design checklist to make sure you haven’t missed them before your next design review.</p>
+<p>So, some numbers to keep in mind while you’re designing: 0, 1, 2, and N. And there could be others, depending on the domain and tasks you’re trying to accommodate. You might want to add them to a design checklist before your next design review.</p>
 ]]></content>
   </entry>
   
