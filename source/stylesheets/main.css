@@ -32,11 +32,11 @@
 body {
 	margin:0;
 	padding:0;
-	border-top:8px solid #333;
-	font-family:'ITC Berkeley Oldstyle W01';
-	font-weight:500;
+	border-top:8px solid rgb(111, 157, 32);
+	font-family:'Agmena W01';
+	font-weight:300;
 	font-style:normal;
-	font-size:1.1em;
+	font-size:1.3em;
 	color:#333
 }
 @media only screen and (max-width: 1000px) {
@@ -46,21 +46,18 @@ em {
 	font-style:italic;
 }
 strong {
-	font-weight:700;
+	font-weight:600;
 }
-h1 {
-	margin-top:2em;
-	font-size:1.6em;
-	font-weight:500;
+h1, h2 {
+	font-weight:600;
 	font-style:normal;
-	text-align:center;
 	line-height: 1.3em
 }
+h1 {
+	font-size:1.8em;
+}
 h2 {
-	margin-top:2em;
-	font-size:1.2em;
-	font-weight:500;
-	font-style:normal
+	font-size:1.4em;
 }
 .opaque_rollover:hover  {
 	opacity:0.6;
@@ -138,10 +135,11 @@ article footer {
 	padding: 0 0 3em 0;
 	border-bottom:1px solid #dfdfdf;
 }
-article h1,article h2,article h3 {
-	text-align:left
+article h1, article h2, article h3 {
+	text-align:left;
+	margin-top:1.5em;
 }
-article h1 a,article h2 a,article h3 a {
+article h1 a, article h2 a, article h3 a {
 	color:#333
 }
 article h1 a:hover,article h2 a:hover,article h3 a:hover {
@@ -155,7 +153,7 @@ article header {
 }
 article header h1 {
 	margin-top:.5em;
-	font-size:2.2em;
+	font-size:2.4em;
 	font-weight:bold;
 	font-style:normal;
 	line-height:1.3em;
