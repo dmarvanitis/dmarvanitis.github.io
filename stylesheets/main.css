@@ -34,7 +34,7 @@ body {
 	padding:0;
 	border-top:8px solid #333;
 	font-family:'Monotype Goudy W01';
-	font-weight:400;
+	font-weight:300;
 	font-style:normal;
 	font-size:1.1em;
 	color:#333
@@ -46,10 +46,10 @@ em {
 	font-style:italic;
 }
 strong {
-	font-weight:700;
+	font-weight:600;
 }
 h1, h2 {
-	font-weight:700;
+	font-weight:600;
 	font-style:normal;
 	line-height: 1.3em
 }
