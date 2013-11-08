@@ -83,7 +83,7 @@ header {
 	text-align:center
 }
 header .title {
-	font-family:"nevis";
+	font-family:"ITC Franklin Gothic W01";
 	font-size:2.3em;
 	text-transform:uppercase
 }
@@ -159,7 +159,7 @@ article header h1 {
 	line-height:1.3em;
 }
 article header time {
-	font-family:"nevis";
+	font-family:"ITC Franklin Gothic W01";
 	text-transform:uppercase;
 	font-size:.9em;
 	font-style:normal;
