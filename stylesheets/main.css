@@ -84,6 +84,7 @@ header {
 }
 header .title {
 	font-family:"ITC Franklin Gothic W01";
+	font-weight: 400;
 	font-size:2.3em;
 	text-transform:uppercase
 }
@@ -160,6 +161,7 @@ article header h1 {
 }
 article header time {
 	font-family:"ITC Franklin Gothic W01";
+	font-weight: 400;
 	text-transform:uppercase;
 	font-size:.9em;
 	font-style:normal;
