@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: novices | Danielle.A]]></title>
-  <link href="http://dmarvanitis.github.io/blog/categories/novices/atom.xml" rel="self"/>
-  <link href="http://dmarvanitis.github.io/"/>
-  <updated>2013-11-21T15:48:19-08:00</updated>
-  <id>http://dmarvanitis.github.io/</id>
+  <link href="http://dannyoyello.com/blog/categories/novices/atom.xml" rel="self"/>
+  <link href="http://dannyoyello.com/"/>
+  <updated>2013-11-22T10:34:32-08:00</updated>
+  <id>http://dannyoyello.com/</id>
   <author>
     <name><![CDATA[Danielle Arvanitis]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[In mobile app design, do affordances still matter?]]></title>
-    <link href="http://dmarvanitis.github.io/blog/affordances/"/>
+    <link href="http://dannyoyello.com/blog/affordances/"/>
     <updated>2013-09-28T15:14:00-07:00</updated>
-    <id>http://dmarvanitis.github.io/blog/affordances</id>
+    <id>http://dannyoyello.com/blog/affordances</id>
     <content type="html"><![CDATA[<p>Something I hear from novice mobile designers lately is that affordances “aren&rsquo;t needed anymore” because “users will just play with the app and figure things out.” When pressed by more senior members of a UX team, these designers often suggest making up for the missing affordance by highlighting the feature in a tutorial or displaying a screen overlay with tips on how to use the app.</p>
 
 <p>Here are just some of the problems with that thinking.</p>
@@ -54,7 +54,7 @@
 
 <p>Clearly, she hadn&rsquo;t read the tutorial.</p>
 
-<p><img src="http://dmarvanitis.github.io/../images/blogImages/navbar.png" alt="screenshot" title="Oops" /></p>
+<p><img src="http://dannyoyello.com/../images/blogImages/navbar.png" alt="screenshot" title="Oops" /></p>
 
 <p>I could only be embarrassed for the UX team, because I knew the story behind the error. The lead designer hadn’t wanted to add an affordance for swiping the tab bar, and management had backed him on it. Some of us knew that some users would never discover the swipe—but we didn&rsquo;t know there would be one just down the hall who was responsible for supporting our own Chief Revenue Officer.</p>
 
